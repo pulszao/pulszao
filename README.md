@@ -3,10 +3,10 @@
 I love bringing amazing ideas to life.
 
 - 😍️ Amazed with web and mobile development;
-- 😄 Always studing dart and flutter;
+- 😄 Always studying dart and flutter;
 - 🤓 Studied <a href="https://cs50.harvard.edu/web/2020/">CS50w</a> online at Harvard University;
 - 👨‍💻 Working as Junior Software Developer since August/2021;
-- Studing Computer Engineering at Universidade de Caxias do Sul.
+- Studying Computer Engineering at Universidade de Caxias do Sul.
 
 <br/>
 
