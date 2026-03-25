@@ -1,12 +1,12 @@
-### Hello World! I'm Lucas Pulsz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello World! I'm Lucas Pulsz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Machine Learning Engineer @ candido.ai
 
 I love bringing amazing ideas to life.
-
-- 😍️ Amazed with web and mobile development;
-- 😄 Always studying dart and flutter;
-- 🤓 Studied <a href="https://cs50.harvard.edu/web/2020/">CS50w</a> online at Harvard University;
-- 👨‍💻 Working as Junior Software Developer since August/2021;
-- Studying Computer Engineering at Universidade de Caxias do Sul.
+- 😍️ Passionate about AI — especially LLMs and Computer Vision;
+- 🤖 Working with LLM pipelines using Azure, OpenAI and Pydantic;
+- 👁️ Computer Vision enthusiast — from facial recognition to dental diagnostics with YOLO;
+- 🎓 Graduated in Computer Engineering at Universidade de Caxias do Sul
+- 👨‍💻 Software Developer since August/2021;
 
 <br/>
 
@@ -15,10 +15,20 @@ I love bringing amazing ideas to life.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pulszao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulszao&layout=compact&langs_count=5&theme=tokyonight" />
 </div>
-
+    
 <br/>
 
 ### My skills
+
+#### AI / Machine Learning
+<div style="display: inline_block">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+
 #### Web Development
 <div style="display: inline_block"> 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
